@@ -36,18 +36,18 @@
 .searchButton{
     background:url(./if_search2.png);
     background-repeat: no-repeat;
-    position: relative;
-    float: right;
-    padding: 25px;
-    padding-right: 15px;
-    padding-left: 15px;
-    margin-right: -305px;
-    margin-top: 25px;
+    
 
     
 }
 
 .search-icon{
-    color: red;
-    font-size: 3rem;
+    position: relative;
+    float: right;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: -305px;
+    margin-top: 23px;
+    color: white;
+    
 }
