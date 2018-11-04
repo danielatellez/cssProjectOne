@@ -33,14 +33,6 @@
     margin-top: 10px;
 }
 
-.searchButton{
-    background:url(./if_search2.png);
-    background-repeat: no-repeat;
-    
-
-    
-}
-
 .search-icon{
     position: relative;
     float: right;
@@ -50,4 +42,54 @@
     margin-top: 23px;
     color: white;
     
+}
+
+.twitter-icon{
+    position: relative;
+    padding-left: 225px;
+    padding-top: 17px;
+    color:gray;
+    font-size: 18px;
+
+}
+
+.facebook-icon{
+    position: relative;
+    padding-left: 10px;
+    padding-top: 17px;
+    color:gray;
+    font-size: 18px;
+    
+}
+
+.instagram-icon{
+    position: relative;
+    padding-left: 10px;
+    padding-top: 17px;
+    color:gray;
+    font-size: 18px;
+}
+
+.youtube-icon{
+    position: relative;
+    padding-left: 10px;
+    padding-top: 17px;
+    color:gray;
+    font-size: 18px;
+}
+
+.vimeo-icon{
+    position: relative;
+    padding-left: 10px;
+    padding-top: 17px;
+    color:gray;
+    font-size: 18px;
+}
+
+.snapchat-icon{
+    position: relative;
+    padding-left: 10px;
+    padding-top: 17px;
+    color:gray;
+    font-size: 18px;
 }
