@@ -25,7 +25,7 @@
     min-width: 300px;
     border: none;
     transition: .3s all ease;
-    font-size: 16px;
+    font-size: 14px;
     min-height: 40px;
     padding-right: 35px;
     padding-left: 15px;
@@ -50,7 +50,15 @@
     padding-top: 17px;
     color:gray;
     font-size: 18px;
+    transition: .5s;
 
+}
+
+.twitter-icon:hover
+{
+    color:white;
+    box-shadow: #fff;
+    transition: .5s;
 }
 
 .facebook-icon{
@@ -59,7 +67,16 @@
     padding-top: 17px;
     color:gray;
     font-size: 18px;
+    transition: .5s;
     
+}
+
+.facebook-icon:hover
+{
+    color:white;
+    box-shadow: #fff;
+    transition: .5s;
+
 }
 
 .instagram-icon{
@@ -68,6 +85,15 @@
     padding-top: 17px;
     color:gray;
     font-size: 18px;
+    transition: .5s;
+}
+
+.instagram-icon:hover
+{
+    color:white;
+    box-shadow: #fff;
+    transition: .5s;
+
 }
 
 .youtube-icon{
@@ -76,6 +102,15 @@
     padding-top: 17px;
     color:gray;
     font-size: 18px;
+    transition: .5s;
+}
+
+.youtube-icon:hover
+{
+    color:white;
+    box-shadow: #fff;
+    transition: .5s;
+
 }
 
 .vimeo-icon{
@@ -84,6 +119,15 @@
     padding-top: 17px;
     color:gray;
     font-size: 18px;
+    transition: .5s;
+}
+
+.vimeo-icon:hover
+{
+    color:white;
+    box-shadow: #fff;
+    transition: .5s;
+
 }
 
 .snapchat-icon{
@@ -92,4 +136,13 @@
     padding-top: 17px;
     color:gray;
     font-size: 18px;
+    transition: .5s;
+}
+
+.snapchat-icon:hover
+{
+    color:white;
+    box-shadow: #fff;
+    transition: .5s;
+
 }
