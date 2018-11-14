@@ -186,4 +186,11 @@
 
 }
 
+.image-rotation{
+    position: absolute;
+    margin-top: 50px;
+    display: block;
+    margin-left: 500px;
+    margin-right: auto;
 
+}
