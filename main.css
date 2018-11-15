@@ -194,3 +194,12 @@
     margin-right: auto;
 
 }
+
+.container-one{
+    position: absolute;
+    margin-top: 500px;
+    display: block;
+    margin-left: 50px;
+    margin-right: auto;
+}
+
